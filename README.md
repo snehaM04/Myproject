@@ -1,2 +1,2 @@
 # Myproject
-stock price prediction project
+stock price prediction
